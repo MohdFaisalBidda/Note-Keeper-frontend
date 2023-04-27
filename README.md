@@ -57,6 +57,6 @@ To deploy this project run
 ## Features
 
 - Create Note
-- Deket Note
+- Delete Note
 - Maintain All Notes At one place
 
